@@ -40,8 +40,8 @@ The suite features an innovative **Mixture-of-Transformers (MoT)** architecture 
 ## 📅 Plannings
 
 - [x] Transformers Inference
+- [x] Fine-tuning Code
 - [ ] vLLM Inference
-- [ ] Fine-tuning Code
 - [ ] Online Gradio Demo
 
 ## 🛠️ Dependencies and Installation
